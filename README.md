@@ -1,2 +1,2 @@
 # OGEE-Project-Documentation
-OGEE project documentation foe the creative hub.
+OGEE project documentation for the creative hub.
