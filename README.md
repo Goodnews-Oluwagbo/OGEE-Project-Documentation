@@ -30,3 +30,4 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = MET
 ```
 
+![to](isi-ewu edo - fresh (1))
